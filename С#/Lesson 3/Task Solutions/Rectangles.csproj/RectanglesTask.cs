@@ -5,6 +5,11 @@ namespace Rectangles
 {
 	public static class RectanglesTask
 	{
+		/*
+		 * Ох, перепиши с методами и без длиннющих строк~
+		 * --Jarl
+		 */
+		
 		// Пересекаются ли два прямоугольника (пересечение только по границе также считается пересечением)
 		public static bool AreIntersected(Rectangle r1, Rectangle r2)
 		{
