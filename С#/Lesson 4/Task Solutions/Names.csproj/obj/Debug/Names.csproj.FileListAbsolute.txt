@@ -1,0 +1,11 @@
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\bin\Debug\names.txt
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\bin\Debug\Names.exe.config
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\bin\Debug\Names.exe
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\bin\Debug\Names.pdb
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\bin\Debug\ZedGraph.dll
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\bin\Debug\ZedGraph.xml
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\obj\Debug\Names.csprojAssemblyReference.cache
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\obj\Debug\Names.exe
+C:\Git\C-Sharp-Ulearn\С#\Lesson 4\Task Solutions\Names.csproj\obj\Debug\Names.pdb
