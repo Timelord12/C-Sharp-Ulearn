@@ -1,0 +1,13 @@
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\bin\Debug\HarryPotterText.txt
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe.config
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\bin\Debug\TextAnalysis.pdb
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\bin\Debug\nunit.framework.dll
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\bin\Debug\nunitlite.dll
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.csprojAssemblyReference.cache
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CopyComplete
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.exe
+C:\Git\C-Sharp-Ulearn\С#\Lesson 6\Task Solutions\TextAnalysis.csproj\obj\Debug\TextAnalysis.pdb
