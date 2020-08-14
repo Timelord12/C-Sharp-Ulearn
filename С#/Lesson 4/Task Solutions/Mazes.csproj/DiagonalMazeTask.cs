@@ -4,16 +4,20 @@ namespace Mazes
 {
 	public static class DiagonalMazeTask
 	{
+		// Просмотрено третьим --J
+		// Классное решение)
 		public static void MoveOut(Robot robot, int width, int height)
 		{
 			int longSide = Math.Max(width, height) - 2;
 			int shortSide = Math.Min(width, height) - 2;
+			//Условие в скобках ниже можно подсчитать однажды. --J 
 			Direction dirLong = (longSide + 2 == width) ? Direction.Right : Direction.Down;
 			Direction dirShort = (longSide + 2 == width) ? Direction.Down : Direction.Right;
 			int longOffset = longSide / shortSide;
 			DiagonalSteps(robot, dirLong, dirShort, shortSide, longOffset);
 		}
 
+		//О, тот метод ^-^ 
 		public static void MoveToN(Robot robot, Direction dir, int times)
         {
 			for (int i = 0; i < times; i++)
