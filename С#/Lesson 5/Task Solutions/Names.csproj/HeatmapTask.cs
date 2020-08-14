@@ -25,6 +25,10 @@ namespace Names
                 monthNames);
         }
 
+        // defect понятие абстрактное, как delta или offset. 
+        // Выше ты передаешь дефекты в функцию константами по логике, которую еще допереть приходится)
+        // Удачнее было бы defect назвать start, а i назвать offset
+        // --J
         static string[] InitName(int days, int defect)
         {
             var dayNames = new string[days];
