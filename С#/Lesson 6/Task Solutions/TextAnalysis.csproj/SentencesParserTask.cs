@@ -39,6 +39,8 @@ namespace TextAnalysis
         public static List<string> Words(string sentence)
         {
             var chararray = sentence.ToCharArray();
+            // Вместо билдера можно было прост брать sentence.Substring(...) 
+            // Дешево и сердито --J
             var local = new StringBuilder();
             var answer = new List<string>();
             foreach (var letter in chararray)

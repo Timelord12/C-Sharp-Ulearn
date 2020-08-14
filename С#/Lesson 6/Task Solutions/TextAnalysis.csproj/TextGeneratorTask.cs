@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace TextAnalysis
 {
     static class TextGeneratorTask
     {
+        // nice!
         public static string ContinuePhrase(
             Dictionary<string, string> nextWords,
             string phraseBeginning,
@@ -19,18 +21,19 @@ namespace TextAnalysis
             {
                 if (nextWords.ContainsKey(TakeLastWords(lastline)))
                 {
+                    // в строке ниже сложение строк. Стоило просто дважды сделать append
                     result.Append(" " + nextWords[TakeLastWords(lastline)]);
                     lastline.Add(nextWords[TakeLastWords(lastline)]);
                 }
                 else
                 {
+                    // heh
                     if (nextWords.ContainsKey(lastline[lastline.Count - 1]))
                     {
                         result.Append(" " + nextWords[lastline[lastline.Count - 1]]);
                         lastline.Add(nextWords[lastline[lastline.Count - 1]]);
                     }
-                    else
-                        break;
+                    else break;
 				}
 			}
 
