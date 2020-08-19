@@ -1,0 +1,12 @@
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.csprojAssemblyReference.cache
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\bin\Debug\GeometryPainting.exe.config
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\bin\Debug\GeometryPainting.exe
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\bin\Debug\GeometryPainting.pdb
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\bin\Debug\VectorTask.dll
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\bin\Debug\VectorTask.pdb
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.CopyComplete
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.exe
+C:\Git\C-Sharp-Ulearn\С#\Practive Vector\Task Solutions\GeometryPainting.csproj\obj\Debug\GeometryPainting.pdb
