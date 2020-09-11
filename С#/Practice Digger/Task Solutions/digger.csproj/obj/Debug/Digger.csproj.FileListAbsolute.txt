@@ -1,0 +1,16 @@
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\Images\Digger.png
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\Images\Gold.png
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\Images\Monster.png
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\Images\Sack.png
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\Images\Terrain.png
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\11-digger.exe.config
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\11-digger.exe
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\11-digger.pdb
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\bin\Debug\nunit.framework.dll
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\11-digger.exe
+C:\Git\C-Sharp-Ulearn\С#\Practice Digger\Task Solutions\digger.csproj\obj\Debug\11-digger.pdb
