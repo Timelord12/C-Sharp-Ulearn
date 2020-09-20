@@ -1,0 +1,11 @@
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\bin\Debug\Manipulator.exe.config
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\bin\Debug\Manipulator.exe
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\bin\Debug\Manipulator.pdb
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\bin\Debug\nunit.framework.dll
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\manipulator.csprojAssemblyReference.cache
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\manipulator.csproj.CopyComplete
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\Manipulator.exe
+C:\Git\C-Sharp-Ulearn\С#\Practice Manipulator\Task Samples\manipulator.csproj\obj\Debug\Manipulator.pdb
